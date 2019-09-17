@@ -1,2 +1,2 @@
 # 8bitmaker
-make 8 bit music by deeplearn
+make 8 bit music by deeplearning
